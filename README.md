@@ -1,4 +1,4 @@
-# tacky.io 
+# tacky.io
 
 This is my personal website, for general information about me, and links to my resume, cv, and socials.
 
@@ -12,7 +12,7 @@ This is my personal website, for general information about me, and links to my r
 
 ## Authors
 
-* **James Harbour** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **James Harbour** - *Initial work* - [Steam](https://steamcommunity.com/id/hewillendyou)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
