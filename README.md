@@ -14,8 +14,6 @@ This is my personal website, for general information about me, and links to my r
 
 * **James Harbour** - *Initial work* - [Steam](https://steamcommunity.com/id/hewillendyou)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
