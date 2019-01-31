@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
     background-size: auto;
 }
@@ -20,12 +24,13 @@ body {
 
     font-size: 20px;
     text-align: center;
-
-
-    display: block;
-    padding: 50px;
 }
 
 .info-box {
-    /* background-color: green; */
+    background-color: gray;
+    width: 350px;
+    display: block;
+    padding: 50px;
+
+    margin: 100px auto;
 }
