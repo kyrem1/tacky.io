@@ -8,12 +8,24 @@ body {
     font-family: monospace;
     white-space: pre;
     font-size: 20px;
+
+    /* background-color: blue; */
 }
 
 .text-type {
     color: white;
-
     font-family: monospace;
     white-space: pre;
+
+
     font-size: 20px;
+    text-align: center;
+
+
+    display: block;
+    padding: 50px;
+}
+
+.info-box {
+    /* background-color: green; */
 }
