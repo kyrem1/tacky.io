@@ -1,0 +1,11 @@
+body {
+    background-size: cover;
+}
+
+.middleTitle {
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    white-space: pre;
+    font-size: 20px;
+}
