@@ -42,6 +42,14 @@ body {
     color: green;
 }
 
+#link3 {
+    color: orange;
+}
+
+#link4 {
+    color: pink;
+}
+
 
 
 /* Boxes */
@@ -68,7 +76,7 @@ body {
 .link-box {
     background-color: clear;
     width: 400px;
-    height: 500px;
+    height: 200px;
     display: block;
     padding: 20px;
     margin: 20px auto;
