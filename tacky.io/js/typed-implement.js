@@ -10,7 +10,7 @@ var typedName = new Typed("#typedName", {
 });
 
 var typedLink1 = new Typed("#typedLink1", {
-    strings: ["<a id=\"link1\" href=\"https://github.com/kyrem1/\">Github</a>^300\n\n<a id=\"link2\" href=\"https://steamcommunity.com/id/hewillendyou\">Steam</a>"],
-    typeSpeed: 30,
+    strings: ["<a id=\"link1\" href=\"https://github.com/kyrem1/\">Github</a>^700\n\n<a id=\"link2\" href=\"https://steamcommunity.com/id/hewillendyou\">Steam</a>"],
+    typeSpeed: 50,
     startDelay: 1000
 });
