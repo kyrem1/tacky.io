@@ -9,6 +9,9 @@ a {
 body {
     background-size: auto;
     background-repeat: repeat;
+
+
+
 }
 
 .middleTitle {
@@ -30,7 +33,7 @@ body {
 .link-type {
     font-family: "Courier New";
     white-space: pre;
-    font-size: 10px;
+    font-size: 14px;
 
 }
 
