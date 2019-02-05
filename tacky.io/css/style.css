@@ -42,7 +42,7 @@ body {
 }
 
 #link2 {
-    color: green;
+    color: magenta;
 }
 
 #link3 {
@@ -51,6 +51,14 @@ body {
 
 #link4 {
     color: pink;
+}
+
+#link4 {
+    color: green;
+}
+
+#link5 {
+    color: cyan;
 }
 
 
