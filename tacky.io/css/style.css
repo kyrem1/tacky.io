@@ -61,6 +61,10 @@ body {
     color: cyan;
 }
 
+#link6 {
+    color: yellow;
+}
+
 
 
 /* Boxes */
@@ -87,7 +91,7 @@ body {
 .link-box {
     background-color: clear;
     width: 400px;
-    height: 200px;
+    height: 240px;
     display: block;
     padding: 20px;
     margin: 20px auto;
